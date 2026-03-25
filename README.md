@@ -1,2 +1,5 @@
 # Olympic_Games_Overview
-PROJECT PURPOSE: To analyse subscribers' ability to use 5G after its launch and examine the distribution of potential 5G users in Ukraine (write SQL code).A visual representation of Ukraine's performance at Olympics 1994-2024
+PROJECT PURPOSE: To analyse and visualize Ukraine's performance at the Olympics from 1994 to 2024.
+
+# Interactive Dashboard (in Looker Studio):
+https://lookerstudio.google.com/reporting/5ce85c64-aa71-45fd-aab6-031acd932e9a
