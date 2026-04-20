@@ -3,5 +3,5 @@ PROJECT PURPOSE: To analyse and visualize Ukraine's performance at the Olympics 
 
 
 
-### Interactive Dashboard (in Looker Studio):
+### Interactive Dashboard (in Data Studio):
 https://lookerstudio.google.com/reporting/5ce85c64-aa71-45fd-aab6-031acd932e9a
